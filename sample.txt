@@ -1,0 +1,1 @@
+Python is a popular programming language used for automation, data science, and web development. It emphasizes readability and rapid prototyping. This sample file will be used to test the ai-cli summarizer and quiz generator.
